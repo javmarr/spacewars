@@ -8,4 +8,4 @@ Simple website using Express/Socket.IO/Phaser/Openshift-ready
   * Destroy objects by shooting lasers
   * Two player mode planned
 
-[Link to live test](https://spacewars-javmarr.rhcloud.com/)
+[Link to live test (currently being modified)](https://spacewars-javmarr.rhcloud.com/)
